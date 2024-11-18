@@ -27,22 +27,17 @@ White Blood Cell (WBC): 97.77
 Class Imbalance: Tackled using data resampling and focal loss adjustment.
 Limited Data: Augmentation strategies and transfer learning helped improve model generalization.
 
-How to Run
-Clone the repository:
-bash
-Copy code
+## How to Run
+
+### Clone the repository:
+```bash
+
 git clone https://github.com/your-repo/lacuna-malaria-detection.git
 Install dependencies:
-Copy code
-pip install -r requirements.txt
-Train the model:
-arduino
-Copy code
-python train.py --config data.yaml
-Evaluate the model:
-bash
-Copy code
-python evaluate.py --weights runs/detect/train/weights/best.pt
+
+#Run all tabs
+```
+
 Future Improvements
 Additional augmentations and custom architectures for better generalization.
 Incorporating ensemble methods for higher mAP.
