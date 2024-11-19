@@ -32,8 +32,7 @@ Limited Data: Augmentation strategies and transfer learning helped improve model
 ### Clone the repository:
 ```bash
 
-git clone https://github.com/your-repo/lacuna-malaria-detection.git
-Install dependencies:
+git clone https://github.com/poppatheduke/Lacuna-Malaria-Challenge
 
 #Run all tabs
 ```
