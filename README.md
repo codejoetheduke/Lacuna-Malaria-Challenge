@@ -1,6 +1,7 @@
 # Lacuna-Malaria-Challenge
 
-Project Overview
+# Project Overview
+
 This repository contains the solution for the Lacuna Malaria Detection Competition. The goal of the challenge was to accurately detect and localize malaria parasites in cell images. Leveraging object detection models, my solution achieved a mean Average Precision (mAP) at IoU=0.5 of 86.4%.
 
 Approach
