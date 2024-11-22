@@ -1,4 +1,4 @@
-# Lacuna-Malaria-Challenge
+# Zindi Lacuna Malaria Detection
 
 ![lacuna](https://github.com/user-attachments/assets/beca1bfe-dd05-4f28-8e9a-3ab008ad8d09)
 
